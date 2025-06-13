@@ -1,0 +1,32 @@
+# Android Studio and IntelliJ IDEA
+*.iml
+/.idea/*
+# /.idea/misc.xml  # Uncomment if you want to share project settings
+
+# Gradle
+.gradle
+/gradle/
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Local configuration
+local.properties
+
+# Build output
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Sensitive files
+google-services.json
+*.jks
+*.keystore
+*.env
+
+# macOS
+.DS_Store
+
+# Logs and temporary files
+*.log
+/tmp/
